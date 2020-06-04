@@ -1,0 +1,79 @@
+2020-06-02 11:06:841 INFO  BrowserSelector :31 - Launching Chrome Browser
+2020-06-02 11:06:533 INFO  HomePage :31 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (482adc579afa3e078ad2f2d54ab917f0)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-02 11:06:713 INFO  LoginPage :42 - Entering email address Rockyr65eo@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (482adc579afa3e078ad2f2d54ab917f0)] -> xpath: //input[@placeholder='Username or Email']]
+2020-06-02 11:06:712 INFO  LoginPage :49 - Entering password : Rockyua1  to password field :[[ChromeDriver: chrome on WINDOWS (482adc579afa3e078ad2f2d54ab917f0)] -> xpath: //input[@placeholder='Password']]
+2020-06-02 11:06:342 INFO  LoginPage :56 - Clicking on login Button[[ChromeDriver: chrome on WINDOWS (482adc579afa3e078ad2f2d54ab917f0)] -> xpath: //body/div/div/div/div/div/main/div/div/div/form/fieldset/ol/li/button[1]]
+2020-06-02 11:06:650 INFO  LoginPage :62 - Getting error message : [[ChromeDriver: chrome on WINDOWS (482adc579afa3e078ad2f2d54ab917f0)] -> xpath: //div[contains(text(),'Please try again, your username')]]
+2020-06-02 11:06:81 INFO  BrowserSelector :31 - Launching Chrome Browser
+2020-06-02 11:06:451 INFO  HomePage :31 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (96f567efc8b52835300000bac43fbc31)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-02 11:06:91 INFO  LoginPage :42 - Entering email address Rocky2Y1sC@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (96f567efc8b52835300000bac43fbc31)] -> xpath: //input[@placeholder='Username or Email']]
+2020-06-02 11:06:503 INFO  LoginPage :56 - Clicking on login Button[[ChromeDriver: chrome on WINDOWS (96f567efc8b52835300000bac43fbc31)] -> xpath: //body/div/div/div/div/div/main/div/div/div/form/fieldset/ol/li/button[1]]
+2020-06-02 11:06:316 INFO  LoginPage :70 - Getting error message : [[ChromeDriver: chrome on WINDOWS (96f567efc8b52835300000bac43fbc31)] -> xpath: //div[contains(text(),'Both your username and password are required')]]
+2020-06-02 11:06:30 INFO  BrowserSelector :31 - Launching Chrome Browser
+2020-06-02 11:06:974 INFO  HomePage :31 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (daa3a87544c2f3a2cd045a182859534c)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-02 11:06:129 INFO  BrowserSelector :31 - Launching Chrome Browser
+2020-06-02 11:06:08 INFO  HomePage :31 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (65fe5955b4abb70badf659ff70dc0a6b)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-02 11:06:566 INFO  LoginPage :42 - Entering email address RockyeNICe@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (65fe5955b4abb70badf659ff70dc0a6b)] -> xpath: //input[@placeholder='Username or Email']]
+2020-06-02 11:06:769 INFO  LoginPage :49 - Entering password : Rockyaq3  to password field :[[ChromeDriver: chrome on WINDOWS (65fe5955b4abb70badf659ff70dc0a6b)] -> xpath: //input[@placeholder='Password']]
+2020-06-02 11:06:231 INFO  LoginPage :56 - Clicking on login Button[[ChromeDriver: chrome on WINDOWS (65fe5955b4abb70badf659ff70dc0a6b)] -> xpath: //body/div/div/div/div/div/main/div/div/div/form/fieldset/ol/li/button[1]]
+2020-06-02 11:06:779 INFO  LoginPage :62 - Getting error message : [[ChromeDriver: chrome on WINDOWS (65fe5955b4abb70badf659ff70dc0a6b)] -> xpath: //div[contains(text(),'Please try again, your username')]]
+2020-06-02 11:06:440 INFO  BrowserSelector :31 - Launching Chrome Browser
+2020-06-02 11:06:466 INFO  HomePage :31 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (74267a2929146dbaa13facdeadab6b54)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-02 11:06:560 INFO  LoginPage :42 - Entering email address RockyG0mtA@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (74267a2929146dbaa13facdeadab6b54)] -> xpath: //input[@placeholder='Username or Email']]
+2020-06-02 11:06:978 INFO  LoginPage :56 - Clicking on login Button[[ChromeDriver: chrome on WINDOWS (74267a2929146dbaa13facdeadab6b54)] -> xpath: //body/div/div/div/div/div/main/div/div/div/form/fieldset/ol/li/button[1]]
+2020-06-02 11:06:999 INFO  LoginPage :70 - Getting error message : [[ChromeDriver: chrome on WINDOWS (74267a2929146dbaa13facdeadab6b54)] -> xpath: //div[contains(text(),'Both your username and password are required')]]
+2020-06-03 12:06:81 INFO  BrowserSelector :31 - Launching Chrome Browser
+2020-06-03 12:06:471 INFO  HomePage :29 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (f44b44e26c1a02d024c90ce96bb74e51)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-03 12:06:395 INFO  BrowserSelector :31 - Launching Chrome Browser
+2020-06-03 12:06:52 INFO  HomePage :29 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (f3c97ce98f37db1069e2cb8e88faa421)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-03 12:06:350 INFO  LoginPage :42 - Entering email address Rocky2YSLe@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (f3c97ce98f37db1069e2cb8e88faa421)] -> xpath: //input[@placeholder='Username or Email']]
+2020-06-03 12:06:514 INFO  LoginPage :49 - Entering password : Rocky8Aq  to password field :[[ChromeDriver: chrome on WINDOWS (f3c97ce98f37db1069e2cb8e88faa421)] -> xpath: //input[@placeholder='Password']]
+2020-06-03 12:06:767 INFO  LoginPage :56 - Clicking on login Button[[ChromeDriver: chrome on WINDOWS (f3c97ce98f37db1069e2cb8e88faa421)] -> xpath: //body/div/div/div/div/div/main/div/div/div/form/fieldset/ol/li/button[1]]
+2020-06-03 12:06:355 INFO  LoginPage :62 - Getting error message : [[ChromeDriver: chrome on WINDOWS (f3c97ce98f37db1069e2cb8e88faa421)] -> xpath: //div[contains(text(),'Please try again, your username')]]
+2020-06-03 12:06:125 INFO  BrowserSelector :31 - Launching Chrome Browser
+2020-06-03 12:06:482 INFO  HomePage :29 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (3353797c5891cdadbec476b7e97ecf11)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-03 12:06:895 INFO  LoginPage :42 - Entering email address Rockye742D@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (3353797c5891cdadbec476b7e97ecf11)] -> xpath: //input[@placeholder='Username or Email']]
+2020-06-03 12:06:147 INFO  LoginPage :56 - Clicking on login Button[[ChromeDriver: chrome on WINDOWS (3353797c5891cdadbec476b7e97ecf11)] -> xpath: //body/div/div/div/div/div/main/div/div/div/form/fieldset/ol/li/button[1]]
+2020-06-03 12:06:234 INFO  LoginPage :70 - Getting error message : [[ChromeDriver: chrome on WINDOWS (3353797c5891cdadbec476b7e97ecf11)] -> xpath: //div[contains(text(),'Both your username and password are required')]]
+2020-06-03 12:06:178 INFO  BrowserSelector :31 - Launching Chrome Browser
+2020-06-03 12:06:770 INFO  HomePage :29 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (8d6411e2e14f179e0e6403d3cdc5e601)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-03 12:06:815 INFO  BrowserSelector :31 - Launching Chrome Browser
+2020-06-03 12:06:345 INFO  HomePage :29 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (ff8a59d0c4f3ec89f9515e5e5c0578e2)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-03 12:06:63 INFO  LoginPage :42 - Entering email address Rockyt7F1q@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (ff8a59d0c4f3ec89f9515e5e5c0578e2)] -> xpath: //input[@placeholder='Username or Email']]
+2020-06-03 12:06:231 INFO  LoginPage :49 - Entering password : Rockyro2  to password field :[[ChromeDriver: chrome on WINDOWS (ff8a59d0c4f3ec89f9515e5e5c0578e2)] -> xpath: //input[@placeholder='Password']]
+2020-06-03 12:06:418 INFO  LoginPage :56 - Clicking on login Button[[ChromeDriver: chrome on WINDOWS (ff8a59d0c4f3ec89f9515e5e5c0578e2)] -> xpath: //body/div/div/div/div/div/main/div/div/div/form/fieldset/ol/li/button[1]]
+2020-06-03 12:06:622 INFO  LoginPage :62 - Getting error message : [[ChromeDriver: chrome on WINDOWS (ff8a59d0c4f3ec89f9515e5e5c0578e2)] -> xpath: //div[contains(text(),'Please try again, your username')]]
+2020-06-03 12:06:617 INFO  BrowserSelector :31 - Launching Chrome Browser
+2020-06-03 12:06:604 INFO  BrowserSelector :37 - Launching Firefox Browser
+2020-06-03 12:06:71 INFO  HomePage :29 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (c19d41fc-8473-443d-8dae-fba097586ad6)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-03 12:06:780 INFO  BrowserSelector :37 - Launching Firefox Browser
+2020-06-03 12:06:389 INFO  HomePage :29 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (59d57d6d-57ed-4549-b984-5b66a327c1d4)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-03 12:06:699 INFO  BrowserSelector :37 - Launching Firefox Browser
+2020-06-03 12:06:188 INFO  HomePage :29 - Clicking on login link [[FirefoxDriver: firefox on WINDOWS (61536993-d321-411b-a6e0-20b34997ddac)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-03 12:06:913 INFO  LoginPage :42 - Entering email address RockyphvsR@gmail.com to email field : [[FirefoxDriver: firefox on WINDOWS (61536993-d321-411b-a6e0-20b34997ddac)] -> xpath: //input[@placeholder='Username or Email']]
+2020-06-03 12:06:825 INFO  LoginPage :56 - Clicking on login Button[[FirefoxDriver: firefox on WINDOWS (61536993-d321-411b-a6e0-20b34997ddac)] -> xpath: //body/div/div/div/div/div/main/div/div/div/form/fieldset/ol/li/button[1]]
+2020-06-03 12:06:810 INFO  BrowserSelector :31 - Launching Chrome Browser
+2020-06-03 12:06:322 INFO  BrowserSelector :31 - Launching Chrome Browser
+2020-06-03 12:06:487 INFO  BrowserSelector :31 - Launching Chrome Browser
+2020-06-03 13:06:918 INFO  BrowserSelector :31 - Launching Chrome Browser
+2020-06-03 13:06:338 INFO  HomePage :29 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (64af4a24b6efee87f2942fcf493f0b23)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-03 13:06:442 INFO  BrowserSelector :31 - Launching Chrome Browser
+2020-06-03 13:06:995 INFO  HomePage :29 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (291699bd56d3c162ef6af7592ba9e5fb)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-03 13:06:449 INFO  BrowserSelector :31 - Launching Chrome Browser
+2020-06-03 13:06:543 INFO  HomePage :29 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (e2af472491785ecb334125e267de28bd)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-03 13:06:993 INFO  BrowserSelector :42 - Launching IE Browser
+2020-06-03 13:06:11 INFO  BrowserSelector :42 - Launching IE Browser
+2020-06-03 13:06:330 INFO  BrowserSelector :42 - Launching IE Browser
+2020-06-03 13:06:155 INFO  BrowserSelector :31 - Launching Chrome Browser
+2020-06-03 13:06:345 INFO  HomePage :29 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (e2cc65bb5fd0db27f3cff3395836cad3)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-03 13:06:915 INFO  BrowserSelector :31 - Launching Chrome Browser
+2020-06-03 13:06:777 INFO  HomePage :29 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (d4f3b1fb1c1a4cec29d8333592a2ab46)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-03 13:06:103 INFO  LoginPage :42 - Entering email address Rocky8UW13@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (d4f3b1fb1c1a4cec29d8333592a2ab46)] -> xpath: //input[@placeholder='Username or Email']]
+2020-06-03 13:06:277 INFO  LoginPage :49 - Entering password : Rockyxe4  to password field :[[ChromeDriver: chrome on WINDOWS (d4f3b1fb1c1a4cec29d8333592a2ab46)] -> xpath: //input[@placeholder='Password']]
+2020-06-03 13:06:450 INFO  LoginPage :56 - Clicking on login Button[[ChromeDriver: chrome on WINDOWS (d4f3b1fb1c1a4cec29d8333592a2ab46)] -> xpath: //body/div/div/div/div/div/main/div/div/div/form/fieldset/ol/li/button[1]]
+2020-06-03 13:06:650 INFO  LoginPage :62 - Getting error message : [[ChromeDriver: chrome on WINDOWS (d4f3b1fb1c1a4cec29d8333592a2ab46)] -> xpath: //div[contains(text(),'Please try again, your username')]]
+2020-06-03 13:06:454 INFO  BrowserSelector :31 - Launching Chrome Browser
+2020-06-03 13:06:737 INFO  HomePage :29 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (b5ef89599b61aee7a908d03a30b3c82a)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-03 13:06:83 INFO  LoginPage :42 - Entering email address RockyZjsxn@gmail.com to email field : [[ChromeDriver: chrome on WINDOWS (b5ef89599b61aee7a908d03a30b3c82a)] -> xpath: //input[@placeholder='Username or Email']]
+2020-06-03 13:06:277 INFO  LoginPage :56 - Clicking on login Button[[ChromeDriver: chrome on WINDOWS (b5ef89599b61aee7a908d03a30b3c82a)] -> xpath: //body/div/div/div/div/div/main/div/div/div/form/fieldset/ol/li/button[1]]
+2020-06-03 13:06:382 INFO  LoginPage :70 - Getting error message : [[ChromeDriver: chrome on WINDOWS (b5ef89599b61aee7a908d03a30b3c82a)] -> xpath: //div[contains(text(),'Both your username and password are required')]]
